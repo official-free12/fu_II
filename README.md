@@ -1,0 +1,6 @@
+# [附文档]JavaWeb项目企业财务管理系统Jsp项目Servlet源码Java
+
+<br>[附文档]JavaWeb项目企业财务管理系统Jsp项目Servlet源码Java Mysql<br>源码名称:Jsp+Servlet+Mysql企业财务管理系统<br>开发框架:无使用任何框架<br>环境搭建:example.com+eclipse/idea+tomcat8+example.com<br>代码包含:源码+数据库文件+程序设计报告+PPT+视频+详细配置文档<br>安装服务:本店收费提供代安装配置服务，请提前联系客服<br>声明保证:该项目本人均在eclipse和idea中调试可正常运行<br>系统功能：<br>   企业财务管理系统主要用于实现公司的财务管理，基本功能包括：系统登录、部门信息管理、员工信息管理、资产、经营、费用信息管理等。<br>本系统结构如下：<br>（1）职工端：<br>   登录模块：登录功能；<br>   个人信息模块：可修改个人的信息；<br>   个人工资模块：可查阅自己的工资；<br>   公司资产模块：可查看公司的资产信息；<br>   公司经营模块：可查看公司的经营信息；<br>   公司费用模块：可查看公司的费用信息；<br>   年终资产模块：可查看公司的总资产信息；<br>（2）管理员端：<br>   登录模块：实现管理员登录功能；<br>   个人信息模块：可修改个人的信息；<br>   部门信息管理模块：实现部门的增加、修改、删除、查看功能；<br>   职工信息管理模块：实现职工信息的增加、修改、删除、查看功能；<br>   职工工资管理模块：实现职工工资的增加、修改、查看功能；<br>   资产类别管理模块：实现资产类别的增加、删除、查看功能；<br>   资产信息管理模块：实现资产信息的增加、查看功能；<br>   经营信息管理模块：实现经营信息的增加、查看功能；<br>   费用信息管理模块：实现费用信息的增加、查看功能；<br>   年终资产分析模块：实现公司总资产的查看功能；<br>系统截图：<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/G4gPr" style="color: red;">https://mega-file.org/G4gPr</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
